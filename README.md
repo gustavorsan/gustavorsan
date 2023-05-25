@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Frontend**
 
-- 🌱 I’m currently learning **ReactJS | React-Native | Typescript**
+- 🌱 I’m currently learning **ReactJS | React-Native | Typescript | Java | AngularJS**
 
 - 📫 How to reach me **gustavorsantos42@gmail.com**
 
